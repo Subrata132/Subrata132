@@ -8,7 +8,7 @@
 - **Researcher**
 - **3.5 years of experience in ML, DS, DL, NLP, Signal Processing, computer vision and Statistical Analysis**
 #### Currently looking for Data Scientist, Graduate studies opportunities!
-- Graduated and completed BSc. degree in Electrical & Electronic Engineering (CSE) from Bangladesh University of Engineering & Technology [(BUET)](https://eee.buet.ac.bd/)
+- Graduated and completed BSc. degree in Electrical & Electronic Engineering (EEE) from Bangladesh University of Engineering & Technology [(BUET)](https://eee.buet.ac.bd/)
 - Currently working on NLP and different data driven predictive, analytical projects .
 - *Latest Publication:* A Deep Learning Based Energy Efficient Downlink Power Control Mechanism for Cellular Networks
 
