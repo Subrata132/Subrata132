@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello, This is Subrata Biswas!
 
-<!--
-**Subrata132/Subrata132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Subrata132&show_icons=true"/>](https://github.com/Subrata132/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- **Software Engineer, AI & IoT @ ACI Limited**
+- **Researcher**
+- **3.5 years of experience in ML, DS, DL, NLP, Signal Processing, computer vision and Statistical Analysis**
+#### Currently looking for Data Scientist, Graduate studies opportunities!
+- Graduated and completed BSc. degree in Electrical & Electronic Engineering (CSE) from Bangladesh University of Engineering & Technology [(BUET)](https://eee.buet.ac.bd/)
+- Currently working on NLP and different data driven predictive, analytical projects .
+- *Latest Publication:* Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches (Available online)
+
+
+*To know more:*  [Portfolio](https://sites.google.com/view/subrata-biswwas/home?authuser=0), [Google Schoalr](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F7UXHbYyazAJb1_4UZxO5JafdWG3FqUdMnM0b8Ftthz2wD8XJlEXayMcfay9KN-dDQmD2Kh-Sy5izDdw30Al0g_5IKlag&user=xuMQYBgAAAAJ), [LinkedIn](https://www.linkedin.com/in/subrata-biswas-433247142/), [Email](mailto:subrata.buet.eee@gmail.com), [Github](https://github.com/Subrata132/)
+<br/>
+Check the repositories section to see my efforts! Hope, you will enjoy it!
+<br/>
+<p><img align='right' src="https://komarev.com/ghpvc/?username=Subrata132" alt="Subrata132" /> </p>
