@@ -10,7 +10,7 @@
 #### Currently looking for Data Scientist, Graduate studies opportunities!
 - Graduated and completed BSc. degree in Electrical & Electronic Engineering (CSE) from Bangladesh University of Engineering & Technology [(BUET)](https://eee.buet.ac.bd/)
 - Currently working on NLP and different data driven predictive, analytical projects .
-- *Latest Publication:* Identification and Analysis of Risk Factors of Lower Back Pain Using Machine Learning Approaches (Available online)
+- *Latest Publication:* A Deep Learning Based Energy Efficient Downlink Power Control Mechanism for Cellular Networks
 
 
 *To know more:*  [Portfolio](https://sites.google.com/view/subrata-biswwas/home?authuser=0), [Google Schoalr](https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F7UXHbYyazAJb1_4UZxO5JafdWG3FqUdMnM0b8Ftthz2wD8XJlEXayMcfay9KN-dDQmD2Kh-Sy5izDdw30Al0g_5IKlag&user=xuMQYBgAAAAJ), [LinkedIn](https://www.linkedin.com/in/subrata-biswas-433247142/), [Email](mailto:subrata.buet.eee@gmail.com), [Github](https://github.com/Subrata132/)
