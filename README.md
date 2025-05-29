@@ -5,6 +5,7 @@
 
 - **PhD Student,@ Dept. of ECE, Worcester Polytechnic Institute**
 - **Graduate research Assistant @ BASH Lab, Dept. of ECE, WPI**
+- **Former Research Scientist Intern @ Audio Research Group, Meta Reality Labs, WA, USA**
 - **Former Software Engineer, AI & IoT @ ACI Limited**
 - **Researcher**
 - **5 years of experience in ML, DS, DL, NLP, Signal Processing, computer vision and Statistical Analysis**
